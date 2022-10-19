@@ -6,7 +6,7 @@
   import Teaser from "../components/Teaser.svelte";
 
   storyblokInit({
-    accessToken: "RSkNyekAXsQyHoQzLj4o6Qtt",
+    accessToken: "lOUdX41IQY0bBUZ9fMf3zwtt",
     apiOptions: {
     region: "us", // Pass this key/value if your space was created under US region
   },
