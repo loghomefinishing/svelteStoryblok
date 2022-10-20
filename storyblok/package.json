@@ -23,7 +23,9 @@
   },
   "type": "module",
   "dependencies": {
-    "@storyblok/svelte": "^2.2.0"
-   
+    "@storyblok/svelte": "^2.2.0",
+    "@fontsource/fira-mono": "^4.5.0",
+    "cookie": "^0.4.1",
+    "web-vitals": "^2.1.4"
   }
 }
