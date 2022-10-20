@@ -23,6 +23,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@storyblok/svelte": "^2.2.0"
+    "@storyblok/svelte": "^2.2.0",
+    "rollup": "^3.2.3"
   }
 }
