@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "vite dev",
     "dev-nohttps": "vite dev -c vite-nohttps.config.js",
-    "build": "vite build",
+    "build": "svelte-kit build",
     "package": "vite package",
     "preview": "vite preview",
     "axios": "npm add axios"
