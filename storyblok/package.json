@@ -5,7 +5,7 @@
     "dev": "vite dev",
     "dev-nohttps": "vite dev -c vite-nohttps.config.js",
     "build": "vite build",
-    "package": "svelte-kit package",
+    "package": "vite package",
     "preview": "vite preview",
     "axios": "npm add axios"
   },
