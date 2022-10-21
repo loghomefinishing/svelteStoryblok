@@ -2,7 +2,7 @@
   "name": "sveltekit-storyblok-getting-started",
   "version": "0.0.1",
   "scripts": {
-    "dev": "vite dev",
+    "dev": "svelte-kit dev",
     "dev-nohttps": "vite dev -c vite-nohttps.config.js",
     "build": "svelte-kit build",
     "package": "vite package",
