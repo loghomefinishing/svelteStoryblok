@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "vite dev",
-    "dev-nohttps": "vite dev -c vite-nohttps.config.js",
     "build": "vite build",
     "package": "svelte-kit package",
-    "preview": "svelte-kit preview",
-    "axios": "npm add axios"
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./jsconfig.json",
+    "check:watch": "svelte-check --tsconfig ./jsconfig.json --watch",
+    "lint": "prettier --check .",
+    "format": "prettier --write ."
   },
   "devDependencies": {
     "@sveltejs/adapter-vercel": "next",
