@@ -11,5 +11,5 @@
 <p class="text-3xl font-bold underline">
     Hello world! </p>
 </div>
-<div><img src="{blok.pic.filename}" alt="dog"/></div>
+<div><img src="{blok.pic.filename}" alt="dog" width="100%" height="100%"/></div>
 
