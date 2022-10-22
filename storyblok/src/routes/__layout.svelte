@@ -4,7 +4,7 @@
   import Grid from "../components/Grid.svelte";
   import Page from "../components/Page.svelte";
   import Teaser from "../components/Teaser.svelte";
-
+  import Image from "../components/Image.svelte";
   storyblokInit({
     accessToken: "RSkNyekAXsQyHoQzLj4o6Qtt",
     apiOptions: {
@@ -16,12 +16,14 @@
       grid: Grid,
       page: Page,
       teaser: Teaser,
+      image: Image,
     },
   });
 </script>
 
 <script>
   import "../app.css";
+  import Index from "./index.svelte";
 </script>
 
 <main>
