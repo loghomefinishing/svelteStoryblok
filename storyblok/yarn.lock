@@ -11704,7 +11704,7 @@
     "mkdirp" "^0.5.1"
     "untildify" "^3.0.3"
 
-"tailwindcss@^3.1.4":
+"tailwindcss@^3.2.1":
   "integrity" "sha512-Uw+GVSxp5CM48krnjHObqoOwlCt5Qo6nw1jlCRwfGy68dSYb/LwS9ZFidYGRiM+w6rMawkZiu1mEMAsHYAfoLg=="
   "resolved" "https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.2.1.tgz"
   "version" "3.2.1"
