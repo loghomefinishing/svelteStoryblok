@@ -18,7 +18,7 @@ const config = {
 
 export default {
   kit: {
-    adapter: adapter()},
+   
     // default options are shown
     adapter: vercel({
       // if true, will deploy the app using edge functions
