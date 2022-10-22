@@ -1202,7 +1202,7 @@
     "set-cookie-parser" "^2.4.8"
     "tiny-glob" "^0.2.9"
 
-"@sveltejs/adapter-vercel@1.0.0-next.66":
+"@sveltejs/adapter-vercel@1.0.0-next.66", "@sveltejs/adapter-vercel@next":
   "integrity" "sha512-s3Hcxu9nCG/rR3C3cFbdQGjTa5W4K2kRcc6S5Xefx7itbrw+4v3KpO8ZPB6qM55XDwVxuG7260NMHVI6MUGmSA=="
   "resolved" "https://registry.npmjs.org/@sveltejs/adapter-vercel/-/adapter-vercel-1.0.0-next.66.tgz"
   "version" "1.0.0-next.66"
