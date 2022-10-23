@@ -12,4 +12,4 @@
   </div>
 {/key}
 
-<p>test</p>
+<p>re-test</p>
